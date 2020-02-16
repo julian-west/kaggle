@@ -1,0 +1,12 @@
+pandas
+numpy
+jupyterlab
+matplotlib
+seaborn
+
+sklearn
+tensorflow
+torch
+torchvision
+keras
+transformers
