@@ -1,1 +1,1 @@
-docker build -t kaggle-comp .
+docker build -t kaggle .

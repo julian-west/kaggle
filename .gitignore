@@ -1,6 +1,9 @@
 
 .ipynb_checkpoints
 
+#don't include external data sources
+external
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

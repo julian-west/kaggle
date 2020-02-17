@@ -3,7 +3,7 @@ numpy
 jupyterlab
 matplotlib
 seaborn
-
+xgboost
 sklearn
 tensorflow
 torch
