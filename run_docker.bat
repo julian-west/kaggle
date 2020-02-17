@@ -1,0 +1,1 @@
+docker run -t -v "%cd%":/kaggle --name kaggle-comp -p 8080:8080 -e JUPYTER_ENABLE_LAB=yes kaggle
